@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
+https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" tvg-country="MD" tvg-url="" group-title="Moldova",Acasa TV 
 http://hls.protv.md/acasatv/acasatv.m3u8
 #EXTINF:-1 tvg-id="accent-tv" tvg-name="Accent TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/K9rVkyb.jpg" tvg-country="MD" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Moldova",Accent TV 
@@ -123,8 +125,6 @@ https://vid.hls.protv.ro/pro2n/pro2.m3u8?1
 https://vid.hls.protv.ro/procineman/procinema.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MrXWPbj.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro Gold 
 https://vid.hls.protv.ro/progoldn/progold.m3u8?1
-#EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News 
 http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News 
