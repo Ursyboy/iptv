@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
 https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News 
+#EXTINF:-1 tvg-id="Pro Tv News" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV News 
 https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:-1 tvg-id="TVR 1 RO" tvg-name="TVR 1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/wzoSQ85.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR 1 
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
@@ -11,7 +11,7 @@ http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR 3 RO" tvg-name="TVR 3 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Uz1oiYM.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR 3 
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-country="RO" tvg-url="" group-title="Romania",TravelMix 
+#EXTINF:-1 tvg-id="TravelMix" tvg-name="TravelMix" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-country="RO" tvg-url="" group-title="Romania",TravelMix 
 http://89.38.8.131:39520
 #EXTINF:-1 tvg-id="TVR Cluj RO" tvg-name="TVR Cluj RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XW7BIDB.png" tvg-country="RO" tvg-url="" group-title="Romania",TVR Cluj 
 http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
