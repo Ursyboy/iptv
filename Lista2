@@ -1,9 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" tvg-country="AF" tvg-url="" group-title="Afghanistan",Ariana News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-country="RO" tvg-url="" group-title="Posturi_TV",TVR1
 http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-country="AF" tvg-url="" group-title="Afghanistan",Ariana TV
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/8VbuI9n.png" tvg-country="AF" tvg-url="" group-title="Afghanistan",Ariana TV
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XpR1VvZ.png" tvg-country="AF" tvg-url="" group-title="Afghanistan",Kayhan TV
-http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
