@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="Romania",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="English" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="RO" tvg-url="" group-title="Romania",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" tvg-country="MD" tvg-url="" group-title="Moldova",Acasa TV
 http://hls.protv.md/acasatv/acasatv.m3u8
