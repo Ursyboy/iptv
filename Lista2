@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
-https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1nn
+https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
 http://jockeriptv.com:8080/navaro/navaro/23743?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" tvg-country="RO" tvg-url="" group-title="Romania",Pro TV 
